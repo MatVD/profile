@@ -21,3 +21,8 @@ a:hover {
 p {
     line-height: 1.6;
 }
+
+.intro {
+    font-size: 1.2em;
+    margin-bottom: 15px;
+}
