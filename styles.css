@@ -4,3 +4,20 @@ body {
     background-color: #f4f4f4;
     color: #333;
 }
+
+h1 {
+    color: #0056b3;
+}
+
+a {
+    color: #ff6600;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+p {
+    line-height: 1.6;
+}
